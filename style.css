@@ -1,0 +1,27 @@
+
+h1 {
+    padding: 15px;
+    margin-top: 30px;
+    text-align: center;
+    color: rgb(24, 32, 136);
+}
+
+h2 {
+    color: rgb(24, 29, 95);
+}
+
+ol{
+    color: red;
+}
+
+ol li:hover{
+    color: yellow;
+}
+
+ul{
+    color: green;
+}
+
+ul li:hover{
+    background-color: blue;
+}
